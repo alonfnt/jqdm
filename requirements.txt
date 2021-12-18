@@ -1,11 +1,3 @@
-absl-py
-flatbuffers
 jax
 jaxlib
-numpy
-opt-einsum
-pkg_resources
-scipy
-six
 tqdm
-typing_extensions
